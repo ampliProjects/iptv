@@ -3,7 +3,7 @@ import { Container, Title, InputContainer, Button, Input } from './css/index';
 import { Description } from './css';
  const LoadChannels = ({setChannels, setLoading, setError,  loading, error}) => {
 
-     const [m3uUrl, setM3uUrl] = useState('');
+     const [m3uUrl, setM3uUrl] = useState('https://ampliprojects.github.io/tv/aboa.m3u');
   
 
   const loadM3uList = async () => {
