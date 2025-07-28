@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/iptv/static/css/main.e6c13ad2.css",
-    "main.js": "/iptv/static/js/main.4b618e79.js",
+    "main.js": "/iptv/static/js/main.0234562f.js",
     "static/js/453.ac40c033.chunk.js": "/iptv/static/js/453.ac40c033.chunk.js",
     "index.html": "/iptv/index.html",
     "main.e6c13ad2.css.map": "/iptv/static/css/main.e6c13ad2.css.map",
-    "main.4b618e79.js.map": "/iptv/static/js/main.4b618e79.js.map",
+    "main.0234562f.js.map": "/iptv/static/js/main.0234562f.js.map",
     "453.ac40c033.chunk.js.map": "/iptv/static/js/453.ac40c033.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.4b618e79.js"
+    "static/js/main.0234562f.js"
   ]
 }
